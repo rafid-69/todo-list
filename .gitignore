@@ -1,0 +1,14 @@
+# Ignore built files
+/build/
+/dist/
+/node_modules/
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files (e.g., Java, Python, etc.)
+*.class
+*.exe
